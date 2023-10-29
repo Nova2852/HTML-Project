@@ -30,11 +30,27 @@ p {
   color: #fcfffc
 }
 
-a {
-  font-family: Times New Roman, Times, serif;
-  font-size: 15px;
-  color: #fcfffc
+a:link {
+  color: #fff9e8;
+  background-color: transparent;
+  text-decoration: underline;
 }
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 div {
   padding: 5px;
 }
