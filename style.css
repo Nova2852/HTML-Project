@@ -1,20 +1,37 @@
 html {
   height: 100%;
   width: 100%;
-  background-color: #fff4d6;
+  background-color: #585958;
+  border-color: 
 }
 h1 {
   font-family: Impact, Times, serif;
   font-style: italic;
-  font-size: 45px;
+  font-size: 50px;
+  color: #fffac7
+  
 }
     
 h2 {
   font-family: Times New Roman, Times, serif;
+  font-size: 40px;
+  color: #fffac7
+}
+
+h3 {
+  font-family: Times New Roman, Times, serif;
   font-size: 30px;
+  color: #fcfffc
 }
 
 p {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 15px;
+  color: #fcfffc
+}
+
+a {
+  font-family: Times New Roman, Times, serif;
+  font-size: 40px;
+  color: #fcfffc
 }
